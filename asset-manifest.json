@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/elon/static/css/main.73178c5e.chunk.css",
+    "main.js": "/elon/static/js/main.7e0ee810.chunk.js",
+    "main.js.map": "/elon/static/js/main.7e0ee810.chunk.js.map",
+    "runtime-main.js": "/elon/static/js/runtime-main.075a98da.js",
+    "runtime-main.js.map": "/elon/static/js/runtime-main.075a98da.js.map",
+    "static/css/2.d34346ea.chunk.css": "/elon/static/css/2.d34346ea.chunk.css",
+    "static/js/2.422beba6.chunk.js": "/elon/static/js/2.422beba6.chunk.js",
+    "static/js/2.422beba6.chunk.js.map": "/elon/static/js/2.422beba6.chunk.js.map",
+    "index.html": "/elon/index.html",
+    "precache-manifest.af9c42b3d2a4c895aa57f3710fe9f0af.js": "/elon/precache-manifest.af9c42b3d2a4c895aa57f3710fe9f0af.js",
+    "service-worker.js": "/elon/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/elon/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.73178c5e.chunk.css.map": "/elon/static/css/main.73178c5e.chunk.css.map",
+    "static/js/2.422beba6.chunk.js.LICENSE.txt": "/elon/static/js/2.422beba6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075a98da.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.422beba6.chunk.js",
+    "static/css/main.73178c5e.chunk.css",
+    "static/js/main.7e0ee810.chunk.js"
+  ]
+}
